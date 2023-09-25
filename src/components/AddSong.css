@@ -1,0 +1,81 @@
+.details{
+    margin-left: 20px;
+    
+    padding-bottom: 50px;
+}
+.details1{
+    margin-left: 20px;
+    padding-right: 55px;
+    padding-bottom: 50px;
+}
+.size1{
+    margin-left: 67px;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 23px;
+    border: solid black 2px;
+}
+.size2{
+    margin-left: 21px;
+    
+    margin-bottom: 20px;
+    width: 250px;
+    height: 23px;
+    border: solid black 2px;
+}
+.size3{
+    margin-left: 63px;
+    
+    margin-bottom: 20px;
+    width: 250px;
+    height: 23px;
+    border: solid black 2px;
+}
+
+.image{
+    margin-left: 55px;
+    
+    margin-bottom: 20px;
+    width: 250px;
+    height: 23px;
+    border: solid black 2px;
+}
+.star{
+    margin-left: 5px;
+    color: black;
+    
+    width: 250px;
+    height: 23px;
+   
+}
+.btn{
+    display:flex;
+    margin-left: 62px;
+    height: 34px;
+    width: 100px;
+    color: aliceblue;
+    background-color: rgba(140, 138, 138, 0.838);
+    text-align: center;
+    border: none;
+    align-items: center;
+
+}
+.artist{
+    display:flex;
+}
+.btn1{
+    margin-left: 132px;
+    width: 75px;
+    height: 22px;
+    background-color: rgb(59, 57, 57);
+    color: aliceblue;
+}
+.btn2{
+    margin-left: 12px;
+    width: 75px;
+    height: 22px;
+    background-color: aliceblue;
+}
+.head{
+    margin-left: 22px;
+}
